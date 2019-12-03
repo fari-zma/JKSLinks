@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JKS Links</string>
+    <string name="jks_name">Jang Keun Suk</string>
+    <string name="wiki">WIKIPEDIA</string>
+    <string name="home">HOME PAGE</string>
+    <string name="fb">FACEBOOK</string>
+    <string name="insta">INSTAGRAM</string>
+    <string name="youtube">YOUTUBE</string>
+    <string name="twitter">TWITTER</string>
+</resources>
