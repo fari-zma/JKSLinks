@@ -6,3 +6,6 @@ A bare minimum Android app named "JKSLinks" that contain buttons that redirects 
 
 # **Apk download**
 [app-debug.apk](src/app-debug.apk?raw=true)
+
+## **License**
+Licensed under the [MIT License](LICENSE)
