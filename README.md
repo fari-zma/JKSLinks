@@ -1,5 +1,5 @@
 # **JKSLinks**
-A bare minimum Android app named "JKSLinks" that contain buttons that redirects to the corresponding social links of JKS.
+A bare minimum Android app named "JKSLinks" that contain buttons that redirects to the corresponding social links of JKS(Jang Keun Suk).
 
 # **Video**
 ![](src/JKSLinks.gif)
